@@ -1,0 +1,3 @@
+SELECT * 
+FROM pds.employees 
+ORDER BY FIRST_NAME ASC;
