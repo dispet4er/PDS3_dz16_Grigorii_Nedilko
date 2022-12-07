@@ -1,3 +1,4 @@
+USE pds;
 SELECT * 
-FROM pds.employees 
+FROM employees 
 ORDER BY FIRST_NAME ASC;
